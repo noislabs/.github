@@ -13,3 +13,9 @@ Some important repositories to check out:
 * website: The code for the actual https://nois.network website
 * docs: The documentation of Nois under https://docs.nois.network
 * pingpong: An end to wnd simulation/montoring tool where an app deployed on juno requests randomness from Nois and exports important time metrics. 
+* nois-bot: A drand-bot implementation
+* bot2: Another drand-bot implementation
+* nois-oracle-dashboard: The dashboard you see here https://randomness.nois.network/
+* address-generator: this UI https://address.nois.network/
+* nois-randomness-simulator: An offchain randomness simulator https://simulator.nois.network/
+* ibc-visualizer: A UI to check  what IBC clients/connections/channels Nois has with other chains. https://ibc.nois.network/ 
